@@ -1,0 +1,16 @@
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.exe
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.deps.json
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.runtimeconfig.json
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.runtimeconfig.dev.json
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.dll
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\ref\dio-dotnet-desafios.dll
+D:\projetos\dio-dotnet-desafios\bin\Debug\net5.0\dio-dotnet-desafios.pdb
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.csproj.AssemblyReference.cache
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.AssemblyInfoInputs.cache
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.AssemblyInfo.cs
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.csproj.CoreCompileInputs.cache
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.dll
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\ref\dio-dotnet-desafios.dll
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.pdb
+D:\projetos\dio-dotnet-desafios\obj\Debug\net5.0\dio-dotnet-desafios.genruntimeconfig.cache
