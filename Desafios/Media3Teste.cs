@@ -3,13 +3,13 @@ using System.Globalization;
 
 namespace dio_dotnet_desafios
 {
-    public class Program5
+    public class Program_Med3Teste
     {
-        public static void Main5(string[] args)
+        public static void Main_Med3Teste(string[] args)
         {
             double notaA, notaB, notaC, notaD, media;
-            string[] notasRecebidas = Console.ReadLine().Split(" ");
-            //string[] notasRecebidas = ("0,0 9,9 10,0 0,0").Split(" ");
+            //string[] notasRecebidas = Console.ReadLine().Split(" ");
+            string[] notasRecebidas = ("0,0 9,9 10,0 0,0").Split(" ");
       
             notaA = double.Parse(notasRecebidas[0]) * 0.2;
             notaB = double.Parse(notasRecebidas[1]) * 0.3;
@@ -26,8 +26,8 @@ namespace dio_dotnet_desafios
             {
                 Console.WriteLine("Aluno em exame.");
                 
-                double notaExame = double.Parse(Console.ReadLine());
-                //double notaExame = double.Parse(("2,2"));
+                //double notaExame = double.Parse(Console.ReadLine());
+                double notaExame = double.Parse(("2,2"));
                 
                 media = (media + notaExame) / 2;
                 

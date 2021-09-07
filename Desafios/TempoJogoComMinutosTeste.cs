@@ -2,9 +2,9 @@
 
 namespace dio_dotnet_desafios
 {
-    public class Program
+    public class Program_TempoJogoTeste
     {
-        public static void Main(string[] args)
+        public static void Main_TempoJogoTeste(string[] args)
         {
             int hhInicial, hhFinal, mmInicial, mmFinal;
             string[] valoresRecebidos = {

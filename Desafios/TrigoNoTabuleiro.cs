@@ -3,25 +3,22 @@ using System.Numerics;
 
 namespace dio_dotnet_desafios
 {
-    public class Program2
+    public class Program_TrigoTabuleiro
     {
-        public static void Main2(string[] args)
+        public static void Main_TrigoTabuleiro(string[] args)
         {
-            int qtdTeste = 9;
-            int[] valoresRecebidos = {0, 8, 16, 24, 32, 40, 48, 56, 64};
-            
+            int qtdTeste = int.Parse(Console.ReadLine());
             for (int i = 0; i < qtdTeste; i++)
             {
+                int casas = int.Parse(Console.ReadLine());
                 var graos = new BigInteger(1);
-                int casas = valoresRecebidos[i];
-             
-                while (casas != 0){
+                
+                while(casas != 0){
                     graos = graos * 2;
                     casas--;
                 }
-            Console.WriteLine($"{graos/12000} kg");
+                Console.WriteLine($"{graos/12000} kg");
             }
-
         }
     }
 }

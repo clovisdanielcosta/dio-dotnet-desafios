@@ -2,7 +2,7 @@
 
 namespace dio_dotnet_desafios
 {
-    public class ProgramSeqLog
+    public class Program_SeqLog
     {
         public static void Main_SeqLog(string[] args)
         {

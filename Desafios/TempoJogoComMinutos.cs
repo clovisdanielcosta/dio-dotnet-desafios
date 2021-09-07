@@ -2,9 +2,9 @@
 
 namespace dio_dotnet_desafios
 {
-    public class ProgramCOPY
+    public class Program_TempoJogo
     {
-        public static void MainCOPY(string[] args)
+        public static void Main_TempoJogo(string[] args)
         {
             int hhInicial, hhFinal, mmInicial, mmFinal;
             string[] valoresRecebidos = {

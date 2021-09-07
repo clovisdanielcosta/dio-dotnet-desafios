@@ -3,9 +3,9 @@ using System.Numerics;
 
 namespace dio_dotnet_desafios
 {
-    public class Program3
+    public class Program_Encaixa
     {
-        public static void Main3(string[] args)
+        public static void Main_Encaixa(string[] args)
         {
             int qtCasosTeste = 1000; //int.Parse(Console.ReadLine());
             for (int i = 0; i < qtCasosTeste; i++)

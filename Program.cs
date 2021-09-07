@@ -59,8 +59,8 @@ namespace dio_dotnet_desafios
                             (hhInicial == hhFinal && mmInicial > mmFinal) ? 23 : 24 - Math.Abs(hhInicial - hhFinal); 
                                 
                 int minutos = (mmInicial < mmFinal) ? Math.Abs(mmInicial - mmFinal) :
-                        (60 - Math.Abs(mmInicial - mmFinal)) == 60 ? 0 : 60 - Math.Abs(mmInicial - mmFinal);  
-            
+                              (60 - Math.Abs(mmInicial - mmFinal)) == 60 ? 0 : 60 - Math.Abs(mmInicial - mmFinal);  
+                              
                 Console.WriteLine($"O JOGO DUROU {horas} HORA(S) E {minutos} MINUTO(S)");
            }
         }
